@@ -1,10 +1,91 @@
 [
   {
     "id": "1",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "fieldTema1": "ganti sesuai field tema",
-    "fieldTema2": 0,
-    "fieldTema3": "ganti sesuai field tema"
+    "judul": "Lari 3 KM",
+    "kategori": "Olahraga Atletik",
+    "tanggal": "29 oktober 2026",
+    "durasi": 30,
+    "kalori": "200 Kalori Terbakar"
+  },
+
+  {
+    "id": "2",
+    "judul": "Jogging",
+    "kategori": "Olahraga aerobik",
+    "tanggal": "28 Oktober 2026",
+    "durasi": 60,
+    "kalori": "500 Kalori Terbakar"
+  },
+
+  {
+      "id": "3",
+      "judul": "Yoga",
+      "kategori": "Olaharaga pikiran",
+      "tanggal": "27 Oktober 2026",
+      "durasi": 90,
+      "kalori": "450 Kalori Terbakar"
+  },
+
+  {
+    "id": "4",
+    "judul": "Push Up",
+    "kategori": "Olaharaga Kekuatan",
+    "tanggal": "26 oktober 2026",
+    "durasi": 1,
+    "kalori": "7 Kalori Terbakar"
+  },
+
+  {
+    "id": "5",
+    "judul": "Pull Up",
+    "kategori": "Olahraga Kekuatan",
+    "tanggal": "25 Oktober 2026",
+    "durasi": 1,
+    "kalori": "11 Kalori Terbakar"
+  },
+
+  {
+    "id": "6",
+    "judul": "Senam Irama",
+    "kategori": "Senam Irama",
+    "tanggal": "24 Oktober 2026",
+    "durasi": 45,
+    "kalori": "500 Kalori Terbakar"
+  },
+
+  {
+    "id": "7",
+    "judul": "Squats Jump",
+    "kategori": "Olaharaga Kekuatan",
+    "tanggal": "23 Oktober 2026",
+    "durasi": 1,
+    "kalori": "100 Kalori Terbakar"
+  },
+
+  {
+    "id": "8",
+    "judul": "Marathon",
+    "kategori": "Olahraga Atletik",
+    "tanggal": "22 Oktober 2026",
+    "durasi": 120,
+    "kalori": "2.500 Kalori Terbakar"
+  },
+
+  {
+    "id": "9",
+    "judul": "Jumping Jack",
+    "kategori": "Olahraga Kekuatan",
+    "tanggal": "22 Oktober 2026",
+    "durasi": 1,
+    "kalori": "16 Kalori Terbakar"
+  },
+
+  {
+    "id": "10",
+    "judul": "Berenang",
+    "kategori": "Olahraga Akuatik",
+    "tanggal": "20 Oktober 2026",
+    "durasi": 30,
+    "kalori": "550 Kalori Terbakar"
   }
 ]
