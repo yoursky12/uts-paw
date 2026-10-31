@@ -2,7 +2,7 @@
   {
     "id": "1",
     "judul": "Lari 3 KM",
-    "kategori": "Olahraga Kardio",
+    "kategori": "Kardio",
     "tanggal": "29 oktober 2026",
     "durasi": 30,
     "kalori": "200 Kalori Terbakar"
@@ -10,80 +10,89 @@
 
   {
     "id": "2",
+    "judul": "Basket",
+    "kategori": "Permainan",
+    "tanggal": "12 November 2026",
+    "durasi": 120,
+    "kalori": "650 Kalori Terbakar"
+  },
+
+  {
+    "id": "3",
     "judul": "Jogging",
-    "kategori": "Olahraga Kardio",
+    "kategori": "Kardio",
     "tanggal": "28 Oktober 2026",
     "durasi": 60,
     "kalori": "500 Kalori Terbakar"
   },
 
   {
-      "id": "3",
+      "id": "4",
       "judul": "Yoga",
-      "kategori": "Olaharaga Kelenturan",
+      "kategori": "Kelenturan",
       "tanggal": "27 Oktober 2026",
       "durasi": 90,
       "kalori": "450 Kalori Terbakar"
   },
 
   {
-    "id": "4",
+    "id": "5",
     "judul": "Push Up",
-    "kategori": "Olaharaga Kekuatan",
+    "kategori": "Kekuatan",
     "tanggal": "26 oktober 2026",
     "durasi": 1,
     "kalori": "7 Kalori Terbakar"
   },
 
   {
-    "id": "5",
+    "id": "6",
     "judul": "Pull Up",
-    "kategori": "Olahraga Kekuatan",
+    "kategori": "Kekuatan",
     "tanggal": "25 Oktober 2026",
     "durasi": 1,
     "kalori": "11 Kalori Terbakar"
   },
 
   {
-    "id": "6",
+    "id": "7",
     "judul": "Senam Irama",
-    "kategori": "Olaharag Kardio",
+    "kategori": "Kardio",
     "tanggal": "24 Oktober 2026",
     "durasi": 45,
     "kalori": "500 Kalori Terbakar"
   },
 
   {
-    "id": "7",
+    "id": "8",
     "judul": "Squats Jump",
-    "kategori": "Olaharaga Kekuatan",
+    "kategori": "Kekuatan",
     "tanggal": "23 Oktober 2026",
     "durasi": 1,
     "kalori": "100 Kalori Terbakar"
   },
 
   {
-    "id": "8",
+    "id": "9",
     "judul": "Marathon",
-    "kategori": "Olahraga Kardio",
+    "kategori": "Kardio",
     "tanggal": "22 Oktober 2026",
     "durasi": 120,
     "kalori": "2.500 Kalori Terbakar"
   },
 
   {
-    "id": "9",
+    "id": "10",
     "judul": "Jumping Jack",
-    "kategori": "Olahraga Kekuatan",
+    "kategori": "Kekuatan",
     "tanggal": "22 Oktober 2026",
     "durasi": 1,
     "kalori": "16 Kalori Terbakar"
   },
 
   {
-    "id": "10",
+    "id": "11",
     "judul": "Berenang",
-    "kategori": "Olahraga Kardio",
+    "kategori": "Kardio",
     "tanggal": "20 Oktober 2026",
     "durasi": 30,
     "kalori": "550 Kalori Terbakar"
