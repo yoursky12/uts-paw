@@ -21,4 +21,3 @@ npm run dev
 ## Konsep React yang dipakai
 
 - ...
-```
