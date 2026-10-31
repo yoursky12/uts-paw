@@ -2,7 +2,7 @@
   {
     "id": "1",
     "judul": "Lari 3 KM",
-    "kategori": "Olahraga Atletik",
+    "kategori": "Olahraga Kardio",
     "tanggal": "29 oktober 2026",
     "durasi": 30,
     "kalori": "200 Kalori Terbakar"
@@ -11,7 +11,7 @@
   {
     "id": "2",
     "judul": "Jogging",
-    "kategori": "Olahraga aerobik",
+    "kategori": "Olahraga Kardio",
     "tanggal": "28 Oktober 2026",
     "durasi": 60,
     "kalori": "500 Kalori Terbakar"
@@ -20,7 +20,7 @@
   {
       "id": "3",
       "judul": "Yoga",
-      "kategori": "Olaharaga pikiran",
+      "kategori": "Olaharaga Kelenturan",
       "tanggal": "27 Oktober 2026",
       "durasi": 90,
       "kalori": "450 Kalori Terbakar"
@@ -47,7 +47,7 @@
   {
     "id": "6",
     "judul": "Senam Irama",
-    "kategori": "Senam Irama",
+    "kategori": "Olaharag Kardio",
     "tanggal": "24 Oktober 2026",
     "durasi": 45,
     "kalori": "500 Kalori Terbakar"
@@ -65,7 +65,7 @@
   {
     "id": "8",
     "judul": "Marathon",
-    "kategori": "Olahraga Atletik",
+    "kategori": "Olahraga Kardio",
     "tanggal": "22 Oktober 2026",
     "durasi": 120,
     "kalori": "2.500 Kalori Terbakar"
@@ -83,7 +83,7 @@
   {
     "id": "10",
     "judul": "Berenang",
-    "kategori": "Olahraga Akuatik",
+    "kategori": "Olahraga Kardio",
     "tanggal": "20 Oktober 2026",
     "durasi": 30,
     "kalori": "550 Kalori Terbakar"
