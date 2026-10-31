@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom'
 import useKoleksi from '../hooks/useKoleksi.js'
 import './Tambah.css'
 
-const AWAL = { judul: '', kategori: 'Kuliah', tenggat: '', prioritas: 'sedang' }
+const AWAL = { judul: '', kategori: 'Kardio', tanggal : '', durasi: '', kalori :'' }
 
 export default function Tambah() {
   const { tambah } = useKoleksi()
@@ -25,29 +25,28 @@ export default function Tambah() {
 
   return (
     <form className="formulir" onSubmit={simpan} noValidate>
-      <h1>Tambah Tugas</h1>
+      <h1>Tambah Jurnal latihan Olahraga</h1>
 
-      <label htmlFor="judul">Judul</label>
+     <label htmlFor="judul">Judul</label>
       <input id="judul" name="judul" value={form.judul} onChange={ubah} />
       {galat && <p role="alert">{galat}</p>}
 
       <label htmlFor="kategori">Kategori</label>
       <select id="kategori" name="kategori" value={form.kategori} onChange={ubah}>
         <option>Kardio</option>
-        <option>Kekuatan</option>
+        <option>Permainan</option>
         <option>Kelenturan</option>
-        <option>permainan</option>
+        <option>Kekuatan</option>
       </select>
 
-      <label htmlFor="tenggat">Tenggat</label>
-      <input id="tenggat" name="tenggat" type="date" value={form.tenggat} onChange={ubah} />
+      <label htmlFor="tanggal">Tanggal</label>
+      <input id="tanggal" name="tanggal" type="date" value={form.tanggal} onChange={ubah} />
 
-      <label htmlFor="prioritas">Prioritas</label>
-      <select id="prioritas" name="prioritas" value={form.prioritas} onChange={ubah}>
-        <option value="rendah">Rendah</option>
-        <option value="sedang">Sedang</option>
-        <option value="tinggi">Tinggi</option>
-      </select>
+      <label htmlFor="durasi">Durasi</label>
+      <input id="durasi" name="durasi" type="number" value={form.durasi} onChange={ubah} />
+
+      <label htmlFor="kalori">Kalori Terbakar</label>
+      <input id="kalori" name="kalori" type="number" value={form.kalori} onChange={ubah} />
 
       <button type="submit">Simpan</button>
     </form>
