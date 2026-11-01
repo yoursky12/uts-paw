@@ -4,7 +4,7 @@
 - NIM: 124140106
 - Kelas: RB
 - Tema: Jurnal Latihan Olahraga
-- Deployment: https://USERNAME.github.io/uts-paw/
+- Deployment: https://yoursky12.github.io/uts-paw/
 
 ## Tangkapan Layar Beranda
 Tampilan Beranda
