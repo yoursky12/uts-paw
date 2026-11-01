@@ -67,6 +67,26 @@
   margin-top: 1rem;
 }
 
+.aksi button {
+  background-color:rgb(51, 104, 160);
+  color: white;
+  border: none;
+  padding: 7px;
+  border-radius: 7px;
+}
+
+.aksi a {
+  text-decoration : none;
+  color : rgb(102, 163, 191);
+  padding: 7px;
+}
+
+.aksi a:hover{
+  background-color: rgb(242, 239, 231);
+  padding: 7px;
+  border-radius: 7px;
+}
+
 .isi dl {
   display: grid;
   grid-template-columns: max-content 1fr;
@@ -93,14 +113,14 @@
   border-radius: 8px;
 }
 
-.kartu h3 {
+.kartu h3 a {
+  text-decoration: none;
   margin: 0 0 0.25rem;
   font-size: 1.05rem;
-}
-
-.kartu p {
-  margin: 0;
-  color: #57606a;
+  color : rgb(51, 104, 160);
+  padding : 10px;
+  border-radius: 15px;
+  border : 1px solid rgb(51, 104, 160);
 }
 
 .alat-koleksi {

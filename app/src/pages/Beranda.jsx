@@ -7,7 +7,7 @@ export default function Beranda() {
   const { items, loading } = useKoleksi()
   const jumlahKategori = new Set(items.map((item) => item.kategori)).size
   return (
-    <section>
+    <section id="beranda">
       <h1>Welcome To Jurnal Latihan Olahraga </h1>
       <div >
         <p>Tema: {mahasiswa.tema}</p>
