@@ -5,10 +5,14 @@
 }
 
 .kepala {
+  position : sticky;
+  top :0;
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 1rem 1.5rem;
+  background-color : rgb(200, 223, 219) ;
+  border-radius:  20px
 }
 
 .menu {
@@ -16,23 +20,44 @@
   gap: 1rem;
 }
 
-.menu a.active {
-  font-weight: 600;
+.kepala .menu a {
+  text-decoration:none;
+  color : black;
+  padding:7px;
+}
+
+.kepala .menu a.active {
+  background-color: transparent;
+  color:rgb(51, 104, 160);
+  padding : 7px;
+  border-radius: 7px;
+  border: 1px solid rgb(51, 104, 160);
+  
+}
+
+.kepala .menu a:hover {
+  color: rgb(51, 104, 160);
 }
 
 .isi {
+  display : flex;
+  justify-content:center;
   flex: 1;
   width: 100%;
   max-width: 960px;
   margin: 0 auto;
   padding: 1.5rem;
+  
 }
 
 .kaki {
+  display:flex;
+  justify-content: center;
+  align-items: center;
   padding: 1rem 1.5rem;
-  border-top: 1px solid #dcdcdc;
-  color: #57606a;
+  border-top: 1px transparant ;
   font-size: 0.9rem;
+  background-color: rgb(242, 239, 231);
 }
 
 .aksi {

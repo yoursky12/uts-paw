@@ -6,7 +6,7 @@ const REPO = 'https://github.com/USERNAME/uts-paw'
 export default function Tentang() {
   const { nama, nim, kelas, tema } = mahasiswa
   return (
-    <section>
+    <section class="kotak-tentang">
       <h1>Tentang</h1>
       <dl>
         <dt>Nama</dt>

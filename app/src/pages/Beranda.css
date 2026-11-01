@@ -1,0 +1,10 @@
+section #buttonTugas {
+    justify-content:center;
+    align-items: center;
+    background-color: rgb(102, 163, 191);
+    text-decoration:none;
+    color:#ffff;
+    padding: 12px;
+    border-radius: 15px;
+
+}
